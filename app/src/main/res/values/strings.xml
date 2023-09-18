@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile Phone</string>
+    <string name="login_welcome">Register</string>
+    <string name="login_desc">Mulai cek kesehatan mata anda secara rutin gratis
+  dengan masuk ke aplikasi</string>
+    <string name="login_to_reg">Already have an account? Login</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="login_go">Masuk</string>
+    <string name="enter_val">Enter value</string>
+
+</resources>
